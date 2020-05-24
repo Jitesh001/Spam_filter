@@ -10,7 +10,7 @@ scipy>=1.4.1
 scikit-learn>=0.23.1
 matplotlib>=1.4.3
 nltk>=3.5
-nltk.text>=3.5
+
 sklearn>=0.0
 setuptools>=41.2.0
 pandas>=1.0.3
